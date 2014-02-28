@@ -1,3 +1,4 @@
-Mars' mass is 6.4E23kg.
+Mars' mass is 6.4E23 kg.
 Mars' diameter is 6,800 km.
 Mars was first recorded in 2nd millenium BC.
+Phobos is Mars' largest moon
